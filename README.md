@@ -1,4 +1,4 @@
-# LAB-6-Online-examination-system
+![Screenshot 2024-04-24 103522](https://github.com/vigneshvickyu/LAB-6-Online-examination-system/assets/151948835/e08109a2-8cb7-4431-b30a-f1348b259fbe)# LAB-6-Online-examination-system
 ### AIM:
 To develop the Exam Registration System using Star UML tools.
 ### PROBLEM STATEMENT
@@ -21,20 +21,22 @@ DEVELOPED BY: VIGNESH M
 REG.NO:212223240176
 ```
 ## Usecase Diagram:
+![Screenshot 2024-04-24 103522](https://github.com/vigneshvickyu/LAB-6-Online-examination-system/assets/151948835/7e85c96d-0d6d-4907-9db1-92f45c8e38c3)
 
 ## Sequence Diagram:
+![Screenshot 2024-04-24 103547](https://github.com/vigneshvickyu/LAB-6-Online-examination-system/assets/151948835/b2942899-e3ed-46f0-857c-92d9f92feae3)
 
 ## Class Diagram:
+![Screenshot 2024-04-24 103535](https://github.com/vigneshvickyu/LAB-6-Online-examination-system/assets/151948835/24f892ba-450c-428f-b580-8168a891b434)
 
 ## Activity Diagram:
+![Screenshot 2024-04-24 103602](https://github.com/vigneshvickyu/LAB-6-Online-examination-system/assets/151948835/a815ff42-50b1-4301-acfa-0bc3f454dae6)
 
 ## Communication Diagram:
+![Screenshot 2024-04-24 103614](https://github.com/vigneshvickyu/LAB-6-Online-examination-system/assets/151948835/6d8d42ad-8096-416f-b808-aabb1ca6f9ff)
 
 ## Package Diagram:
-
-
-
-
+![Screenshot 2024-04-24 103628](https://github.com/vigneshvickyu/LAB-6-Online-examination-system/assets/151948835/1d259d73-5196-40a3-b3e4-54046eab4ca2)
 
 ### RESULT:
 Thus the project to develop Exam Registration system was developed using Star UML
