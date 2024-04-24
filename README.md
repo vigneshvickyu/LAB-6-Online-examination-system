@@ -1,4 +1,3 @@
-![Screenshot 2024-04-24 103522](https://github.com/vigneshvickyu/LAB-6-Online-examination-system/assets/151948835/e08109a2-8cb7-4431-b30a-f1348b259fbe)# LAB-6-Online-examination-system
 ### AIM:
 To develop the Exam Registration System using Star UML tools.
 ### PROBLEM STATEMENT
