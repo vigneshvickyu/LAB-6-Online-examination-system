@@ -16,6 +16,23 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
+```
+DEVELOPED BY: VIGNESH M
+REG.NO:212223240176
+```
+## Usecase Diagram:
+
+## Sequence Diagram:
+
+## Class Diagram:
+
+## Activity Diagram:
+
+## Communication Diagram:
+
+## Package Diagram:
+
+
 
 
 
