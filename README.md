@@ -35,6 +35,10 @@ REG.NO:212223240176
 ## Communication Diagram:
 ![Screenshot 2024-04-24 103614](https://github.com/vigneshvickyu/LAB-6-Online-examination-system/assets/151948835/6d8d42ad-8096-416f-b808-aabb1ca6f9ff)
 
+### STATECHART DIAGRAM:
+![Screenshot 2024-05-08 111610](https://github.com/vigneshvickyu/LAB-6-Online-examination-system/assets/151948835/fde8783c-b8c9-4431-80cc-3863999a13e9)
+
+
 ## Package Diagram:
 ![Screenshot 2024-04-24 103628](https://github.com/vigneshvickyu/LAB-6-Online-examination-system/assets/151948835/1d259d73-5196-40a3-b3e4-54046eab4ca2)
 
